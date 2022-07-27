@@ -1,14 +1,6 @@
-### <div align="center">I'm KyeongSoo Yoo, a web developer 👨‍💻 </div>  
-  
-
-- 🔭 I’m currently working on [Generation Foundation](https://github.com/generation-foundation)  
-  
-
-- 🌱 I’m currently learning BlockChain  
-  
+### <div align="center">I'm KyeongSoo Yoo, a web / mobile developer 👨‍💻 </div>  
 
 - ⚡ Goals of 2022 : Proposal   
-  
 
 <br/>  
 
