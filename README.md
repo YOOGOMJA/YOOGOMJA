@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YOOGOMJA" alt="yoogomja" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yoogomja" alt="yoogomja" /></a> </p>
-
 - 🔭 I’m currently working on [GCOO of GBIKE](https://gcoo.io/)
 
 - 📝 I regularly write articles on [https://yoogomja.github.io](https://yoogomja.github.io)
