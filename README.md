@@ -45,3 +45,31 @@ Shared mobile project template for faster product delivery.
 - Built a reusable template with **Turborepo, Expo, and FSD**.
 - Reduced project setup time from **2 weeks to 3 days**.
 - Standardized conventions, shared libraries, and delivery workflows across projects.
+
+## How I Work
+
+- I build products with a strong focus on delivery, reliability, and performance.
+- I design systems that make repeated work easier to ship and easier to maintain.
+- I value shared conventions, automation, and tools that improve team throughput.
+- I use AI where it meaningfully reduces implementation time, investigation cost, and coordination overhead.
+
+## Focused Stack
+
+**Product Engineering**
+React Native, TypeScript, React, Expo
+
+**Platform & Delivery**
+fastlane, GitLab CI/CD, Turborepo, Playwright
+
+**Backend & System Design**
+Node.js, NestJS, MongoDB
+
+**Ways of Working**
+Performance optimization, release automation, developer platforms, AI-assisted workflows
+
+## GitHub at a Glance
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=yoogomja&show_icons=true&hide_border=true&rank_icon=github" alt="KyeongSoo Yoo GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yoogomja&layout=compact&hide_border=true" alt="KyeongSoo Yoo top languages" />
+</p>
