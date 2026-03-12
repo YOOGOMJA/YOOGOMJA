@@ -1,4 +1,4 @@
-<p align="right">[EN](./README.md) | [KR](./README.ko.md)</p>
+<p align="right"><a href="./README.md">EN</a> | <a href="./README.ko.md">KR</a></p>
 
 # KyeongSoo Yoo
 
