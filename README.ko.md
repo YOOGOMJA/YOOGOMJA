@@ -5,18 +5,14 @@
 
 # 유경수 | KyeongSoo Yoo
 
-모바일 제품을 만들고, 팀이 더 빠르고 안정적으로 배포할 수 있도록 플랫폼과 워크플로를 개선하는 개발자입니다.
-
-![서비스 규모 맥락](https://img.shields.io/badge/서비스_규모_맥락-1.5M_MAU_앱-1f2937?style=flat-square)
-![배포 시간](https://img.shields.io/badge/배포_시간--76.6%25-0f766e?style=flat-square)
-![구현 시간](https://img.shields.io/badge/구현_시간--90%25-0369a1?style=flat-square)
-
-React Native, TypeScript, Node.js 중심 9년+ 경력.
-2026.01부터 데이블에서 AI 기반 전달 워크플로와 협업 표준화를 담당하고 있습니다.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-KyeongSoo%20Yoo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyeongsoo-yoo)
 [![Blog](https://img.shields.io/badge/Blog-yoogomja.github.io-222222?style=flat-square&logo=githubpages&logoColor=white)](https://yoogomja.github.io)
 [![Email](https://img.shields.io/badge/Email-dev.ks.yoo%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dev.ks.yoo@gmail.com)
+
+모바일 제품을 만들고, 팀이 더 빠르고 안정적으로 배포할 수 있도록 플랫폼과 워크플로를 개선하는 개발자입니다.
+
+React Native, TypeScript, Node.js 중심 9년+ 경력.
+2026.01부터 데이블에서 AI 기반 전달 워크플로와 개발 플랫폼 개선에 집중하고 있습니다.
 
 ## Selected Impact & Work
 
@@ -34,10 +30,4 @@ React Native, TypeScript, Node.js 중심 9년+ 경력.
 
 ### LottieFiles 오픈소스 기여
 - LottieFiles 생태계 관련 오픈소스 개선 작업에 기여했습니다.
-
-## GitHub at a Glance
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yoogomja&show_icons=true&hide_border=true&rank_icon=github" alt="KyeongSoo Yoo GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yoogomja&layout=compact&hide_border=true" alt="KyeongSoo Yoo top languages" />
-</p>
+- lottiefiles/dotlottie-react-native에 기여했습니다 ([v0.6.1](https://github.com/LottieFiles/dotlottie-react-native/releases/tag/v0.6.1), [#24](https://github.com/LottieFiles/dotlottie-react-native/pull/24), [#25](https://github.com/LottieFiles/dotlottie-react-native/pull/25)).

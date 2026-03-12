@@ -30,5 +30,4 @@ Currently at Dable (since Jan 2026), focused on AI-assisted delivery workflows a
 
 ### LottieFiles Open Source Contribution
 - Contributed to open-source improvements in the LottieFiles ecosystem.
-- lottiefiles/dotlottie-react-native([release:0.6.1](https://github.com/LottieFiles/dotlottie-react-native/releases/tag/v0.6.1)/[#24](https://github.com/LottieFiles/dotlottie-react-native/pull/24)[#25](https://github.com/LottieFiles/dotlottie-react-native/pull/25))
-
+- Contributed to lottiefiles/dotlottie-react-native ([v0.6.1](https://github.com/LottieFiles/dotlottie-react-native/releases/tag/v0.6.1), [#24](https://github.com/LottieFiles/dotlottie-react-native/pull/24), [#25](https://github.com/LottieFiles/dotlottie-react-native/pull/25)).
