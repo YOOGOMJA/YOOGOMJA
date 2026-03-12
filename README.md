@@ -5,77 +5,39 @@
 
 # KyeongSoo Yoo
 
-> **Profile Guide:** Use EN for concise overview, and KR for detailed career context.
-
 I build mobile products and improve the platforms teams use to ship them.
 
+![Scale Context](https://img.shields.io/badge/Scale_Context-1.5M_MAU_app-1f2937?style=flat-square)
+![Release Time](https://img.shields.io/badge/Release_Time--76.6%25-0f766e?style=flat-square)
+![Implementation Time](https://img.shields.io/badge/Implementation_Time--90%25-0369a1?style=flat-square)
+
 Frontend engineer with 9+ years of experience across React Native, TypeScript, and Node.js.
-I focus on product delivery, performance, and developer platforms that help teams ship faster with less friction.
-Currently at Dable (since Jan 2026), building AI-assisted frontend delivery workflows and collaboration standards.
+Currently at Dable (since Jan 2026), focused on AI-assisted delivery workflows and developer platform improvements.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-KyeongSoo%20Yoo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyeongsoo-yoo)
 [![Blog](https://img.shields.io/badge/Blog-yoogomja.github.io-222222?style=flat-square&logo=githubpages&logoColor=white)](https://yoogomja.github.io)
 [![Email](https://img.shields.io/badge/Email-dev.ks.yoo%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dev.ks.yoo@gmail.com)
 
-## Impact
+## Selected Impact & Work
 
-- Improved polygon rendering time by **58.19%** in a large-scale mobility app by optimizing geospatial search logic.
-- Reduced release time by **76.6%** by building a fastlane + GitLab CI/CD pipeline.
-- Shortened onboarding time by **40%** through conventions, automation, and clearer team workflows.
-- Reduced mobile asset size by **83.51%** with compression-based delivery improvements.
-- Cut new project setup time from **2 weeks to 3 days** by building a shared template with Turborepo, Expo, and FSD.
-
-## Selected Work
-
-### GCOO
-
-Large-scale mobility app used by **1.5M monthly active users**.
-
-- Improved polygon rendering time by **58.19%** for map-based interactions.
-- Reduced asset size by **83.51%** to improve delivery efficiency.
-- Built release automation with fastlane and GitLab CI/CD, reducing release time by **76.6%**.
+### GCOO (context: 1.5M MAU app)
+- Improved polygon rendering time by **58.19%** and reduced release time by **76.6%**.
+- Reduced mobile asset size by **83.51%** through compression-based delivery improvements.
 
 ### AI Delivery Pipeline at Dable
-
-AI-assisted workflow for faster ad widget implementation and issue analysis.
-
-- Designed a pipeline from Jira ticket analysis to HTML/CSS generation and Playwright-based visual validation.
-- Reduced widget implementation time by **over 90%**, from at least 2 working days to around 2 hours.
-- Built domain exploration workflows and codebase structures that reduced issue investigation time by **90%**.
-- Standardized AI collaboration practices for the frontend team with shared conventions and onboarding guides.
+- Built an AI-assisted workflow from Jira analysis to Playwright-based validation.
+- Reduced widget implementation time by **over 90%** and issue investigation time by **90%**.
 
 ### Mobile Platform Template
-
-Shared mobile project template for faster product delivery.
-
-- Built a reusable template with **Turborepo, Expo, and FSD**.
+- Built a shared mobile template with Turborepo, Expo, and FSD.
 - Reduced project setup time from **2 weeks to 3 days**.
-- Standardized conventions, shared libraries, and delivery workflows across projects.
 
-## How I Work
-
-- I build products with a strong focus on delivery, reliability, and performance.
-- I design systems that make repeated work easier to ship and easier to maintain.
-- I value shared conventions, automation, and tools that improve team throughput.
-- I use AI where it meaningfully reduces implementation time, investigation cost, and coordination overhead.
-
-## Focused Stack
-
-**Product Engineering**
-React Native, TypeScript, React, Expo
-
-**Platform & Delivery**
-fastlane, GitLab CI/CD, Turborepo, Playwright
-
-**Backend & System Design**
-Node.js, NestJS, MongoDB
-
-**Ways of Working**
-Performance optimization, release automation, developer platforms, AI-assisted workflows
+### LottieFiles Open Source Contribution
+- Contributed to open-source improvements in the LottieFiles ecosystem.
 
 ## GitHub at a Glance
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yoogomja&show_icons=true&hide_border=true&rank_icon=github" alt="KyeongSoo Yoo GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yoogomja&layout=compact&hide_border=true" alt="KyeongSoo Yoo top languages" />
 </p>
