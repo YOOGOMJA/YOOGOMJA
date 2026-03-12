@@ -13,7 +13,7 @@ React Native, TypeScript, Node.js를 중심으로 9년 이상 제품 개발을 �
 
 ## 프로필 요약
 
-- 현재 데이블에서 AI 기반 광고 위젯 자동화와 FE 협업 규칙 표준화 작업 수행
+- 2026.01부터 데이블에서 AI 기반 광고 위젯 자동화와 FE 협업 규칙 표준화 작업 수행
 - MAU 150만 규모 글로벌 모빌리티 앱 개발 및 운영 경험
 - 렌더링 성능, 배포 자동화, 온보딩 개선, 공용 템플릿 구축 등 제품과 플랫폼을 함께 개선
 - React Native 중심이지만 Node.js, NestJS, MongoDB 기반 백엔드 설계와 운영 경험도 보유
@@ -32,7 +32,7 @@ React Native, TypeScript, Node.js를 중심으로 9년 이상 제품 개발을 �
 ## 경력 요약
 
 ### 데이블 | Frontend Engineer
-`현재 재직`
+`2026.01 - 현재`
 
 - AI 기반 광고 위젯 자동화 파이프라인 설계
 - JIRA 티켓 분석 -> HTML/CSS 생성 -> Playwright 시각 검증 -> 피드백 반영 흐름 자동화
@@ -48,7 +48,7 @@ React Native, TypeScript, Node.js를 중심으로 9년 이상 제품 개발을 �
 ### (주)올드루키 | Cofounder / Full-Stack Developer
 `2019.07 - 2023.03`
 
-- WebXR 기반 패션 플랫폼 `Haffn` 개발 리드
+- WebXR 기반 패션 플랫폼 개발 리드
 - Next.js, React Native, Flutter, BabylonJS, NestJS 등으로 웹과 앱을 함께 개발
 - 신규 프로젝트 배포 체계와 모노레포 기반 개발 환경 개선
 
@@ -81,15 +81,6 @@ AI를 실제 FE 작업 흐름에 연결해 구현 리드타임과 분석 비용�
 - Logger, 인증, 에러 처리 등 공용 라이브러리 정리
 - 신규 프로젝트 세팅 시간 **2주 -> 3일** 단축
 - 팀 내 공통 규칙과 배포 흐름을 템플릿에 내장
-
-### Haffn (이전 주요 프로젝트)
-
-WebXR 기반 패션 플랫폼으로, 웹 3D 경험과 앱 연동을 함께 다뤘습니다.
-
-- BabylonJS 기반 Web 3D 뷰어 자체 개발
-- Flutter 인앱 브라우저와 3D 경험 연동
-- gltf + draco 압축으로 로딩 성능 개선
-- 모노레포와 배포 체계 개선으로 신규 프로젝트 납기 단축
 
 ## 일하는 방식
 
