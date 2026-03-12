@@ -5,18 +5,14 @@
 
 # KyeongSoo Yoo
 
-I build mobile products and improve the platforms teams use to ship them.
-
-![Scale Context](https://img.shields.io/badge/Scale_Context-1.5M_MAU_app-1f2937?style=flat-square)
-![Release Time](https://img.shields.io/badge/Release_Time--76.6%25-0f766e?style=flat-square)
-![Implementation Time](https://img.shields.io/badge/Implementation_Time--90%25-0369a1?style=flat-square)
-
-Frontend engineer with 9+ years of experience across React Native, TypeScript, and Node.js.
-Currently at Dable (since Jan 2026), focused on AI-assisted delivery workflows and developer platform improvements.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-KyeongSoo%20Yoo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyeongsoo-yoo)
 [![Blog](https://img.shields.io/badge/Blog-yoogomja.github.io-222222?style=flat-square&logo=githubpages&logoColor=white)](https://yoogomja.github.io)
 [![Email](https://img.shields.io/badge/Email-dev.ks.yoo%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dev.ks.yoo@gmail.com)
+
+I build mobile products and improve the platforms teams use to ship them.
+
+Frontend engineer with 9+ years of experience across React Native, TypeScript, and Node.js.
+Currently at Dable (since Jan 2026), focused on AI-assisted delivery workflows and developer platform improvements.
 
 ## Selected Impact & Work
 
@@ -34,10 +30,5 @@ Currently at Dable (since Jan 2026), focused on AI-assisted delivery workflows a
 
 ### LottieFiles Open Source Contribution
 - Contributed to open-source improvements in the LottieFiles ecosystem.
+- lottiefiles/dotlottie-react-native([release:0.6.1](https://github.com/LottieFiles/dotlottie-react-native/releases/tag/v0.6.1)/[#24](https://github.com/LottieFiles/dotlottie-react-native/pull/24)[#25](https://github.com/LottieFiles/dotlottie-react-native/pull/25))
 
-## GitHub at a Glance
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yoogomja&show_icons=true&hide_border=true&rank_icon=github" alt="KyeongSoo Yoo GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yoogomja&layout=compact&hide_border=true" alt="KyeongSoo Yoo top languages" />
-</p>
