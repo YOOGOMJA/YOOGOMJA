@@ -1,6 +1,11 @@
-<p align="right"><a href="./README.md">EN</a> | <a href="./README.ko.md">KR</a></p>
+<p align="right">
+  <a href="./README.md"><img src="https://img.shields.io/badge/EN-English-111827?style=for-the-badge&logo=github&logoColor=white" alt="English profile" /></a>
+  <a href="./README.ko.md"><img src="https://img.shields.io/badge/KR-Korean-1D4ED8?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Korean profile" /></a>
+</p>
 
 # KyeongSoo Yoo
+
+> **Profile Guide:** Use EN for concise overview, and KR for detailed career context.
 
 I build mobile products and improve the platforms teams use to ship them.
 

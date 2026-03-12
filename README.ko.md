@@ -1,6 +1,11 @@
-<p align="right"><a href="./README.md">EN</a> | <a href="./README.ko.md">KR</a></p>
+<p align="right">
+  <a href="./README.md"><img src="https://img.shields.io/badge/EN-English-111827?style=for-the-badge&logo=github&logoColor=white" alt="English profile" /></a>
+  <a href="./README.ko.md"><img src="https://img.shields.io/badge/KR-Korean-1D4ED8?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Korean profile" /></a>
+</p>
 
 # 유경수 | KyeongSoo Yoo
+
+> **문서 안내:** EN은 핵심 요약, KR은 상세 경력 맥락 중심 문서입니다.
 
 모바일 제품을 만들고, 팀이 더 빠르고 안정적으로 배포할 수 있도록 플랫폼과 워크플로를 개선하는 개발자입니다.
 
